@@ -2,19 +2,19 @@
 Curso: Engenharia de Software
 
 Integrantes: 
-+ A1. Alexandre 
++ A1. Alexandre Reis dos Santos - 
 + A2. Ennoile Raquel Martins Ferreira - 22400268
-+ A3. Johnny da Silva Xavier - 2245450070
-+ A4. Matheus
++ A3. Johnny da Silva Xavier - 22450270
++ A4. Juliano Matheus Amazonas de Souza - 22402228
 + A5. Nathalya Christinne Sá Macêdo - 22450509
 + A6. Raíssa Martins de Oliveira - 22450064
 
 Professor Dr. Andrey Antonio de Oliveira Rodrigues
-### Objetivo Geral
+### Objetivo Geral:
 
 Oferecer notificações personalizadas e lembretes motivacionais que ajudem os usuários a integrar práticas saudáveis, como meditação e exercícios físicos, na rotina diária, de forma amigável e sem pressão. Além disso, o app contará com um avatar personalizável que evolui e recebe recompensas conforme o usuário completa atividades saudáveis. Esse avatar pode ser customizado com skins, acessórios e upgrades, que o usuário pode desbloquear ao acumular pontos, incentivando-o a cumprir metas de autocuidado e bem-estar.
 
-### Funcionalidades Principais
+### Funcionalidades Principais:
 
 1. Notificações Inteligentes e Customizáveis
 2. Alertas de Atividades Personalizadas
