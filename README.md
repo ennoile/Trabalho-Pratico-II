@@ -2,7 +2,7 @@
 Curso: Engenharia de Software
 
 Integrantes: 
-+ A1. Alexandre Reis dos Santos - 
++ A1. Alexandre Reis dos Santos - 22402232
 + A2. Ennoile Raquel Martins Ferreira - 22400268
 + A3. Johnny da Silva Xavier - 22450270
 + A4. Juliano Matheus Amazonas de Souza - 22402228
