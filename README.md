@@ -1,4 +1,15 @@
 # Trabalho-Pratico-II
+Curso: Engenharia de Software
+
+Integrantes: 
++ A1. Alexandre 
++ A2. Ennoile Raquel Martins Ferreira - 22400268
++ A3. Johnny da Silva Xavier - 2245450070
++ A4. Matheus
++ A5. Nathalya Christinne Sá Macêdo - 22450509
++ A6. Raíssa Martins de Oliveira - 22450064
+
+Professor Dr. Andrey Antonio de Oliveira Rodrigues
 ### Objetivo Geral
 
 Oferecer notificações personalizadas e lembretes motivacionais que ajudem os usuários a integrar práticas saudáveis, como meditação e exercícios físicos, na rotina diária, de forma amigável e sem pressão. Além disso, o app contará com um avatar personalizável que evolui e recebe recompensas conforme o usuário completa atividades saudáveis. Esse avatar pode ser customizado com skins, acessórios e upgrades, que o usuário pode desbloquear ao acumular pontos, incentivando-o a cumprir metas de autocuidado e bem-estar.
