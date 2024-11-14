@@ -14,8 +14,8 @@ Oferecer notificações personalizadas e lembretes motivacionais que ajudem os u
 7. Funcionalidade de Suporte Técnico
 
 ## Documentos
-[1.Proposta](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/1.Proposta)
-[2.Desing_Thinking](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/2.Design_Thinking)
-[3.Desing_Conceitual](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/2.Design_Thinking)
-[4.Design_Interface](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/2.Design_Thinking)
-[5.Avaliação_Usabilidade](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/2.Design_Thinking)
+1. [Proposta](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/1.Proposta)
+2. [Desing_Thinking](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/2.Design_Thinking)
+3. [Desing_Conceitual](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/2.Design_Thinking)
+4. [Design_Interface](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/2.Design_Thinking)
+5. [Avaliação_Usabilidade](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/2.Design_Thinking)
