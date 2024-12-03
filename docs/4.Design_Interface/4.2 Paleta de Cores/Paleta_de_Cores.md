@@ -24,7 +24,7 @@ A escolha das cores deste aplicativo foi planejada para criar uma experiência v
 
 ### Cores Neutras
 
--  <img src=" https://i.postimg.cc/15Q3j3F2/Captura-de-tela-2024-12-03-010924.png" style="width:5%; height:auto;"/>
+- <img src="https://i.postimg.cc/02qKgqFM/Captura-de-tela-2024-12-03-012249.png" style="width:5%; height:auto;"/>
 
   Aparecendo em áreas de suporte, como janelas e fundos de listas, equilibra o design visual sem competir por atenção.
   
