@@ -1,4 +1,4 @@
-# SHOOTE <img src="Imagens/logo.png" style="width:10%"/>
+# SHOOTE <p align="end"><img src="Imagens/logo.png"  style="width:10%"/> </p>
 
 <p align="center">
 <img src="Imagens/imagem_med/med1.png" style="width:31%"/>
@@ -175,7 +175,7 @@ https://github.com/user-attachments/assets/0a72b11b-9f20-456a-b08f-d0578a85c9f4
 
 
 
-# SHOOTE Pisicólogo <img src="Imagens/logo.jpg" style="width:10%"/>
+# SHOOTE Pisicólogo <p align="end"><img src="Imagens/logo.png"  style="width:10%"/> </p>
 
 <p align="center">
 <img src="Imagens/imagem_psi/psi (1).png" style="width:31%"/>
@@ -200,8 +200,7 @@ https://github.com/user-attachments/assets/2eb99bc2-a0dd-421a-a028-4ba351801a7b
 
 
 
-# SHOOTE Suporte <img src="Imagens/logo.jpg" style="width:10%"/>
-
+# SHOOTE Suporte <p align="end"><img src="Imagens/logo.png"  style="width:10%"/> </p>
 <p align="center">
 <img src="Imagens/imagem_appsup/appsup (1).png" style="width:31%"/>
 </p>
