@@ -13,7 +13,7 @@ Texto Corporal: Para o corpo do texto, usamos o peso Regular (16px), priorizando
 
 Contribuições para a Identidade do Aplicativo
 
-<h2>A escolha de Nunito Sans traz</h2>
+<h2>Por que Nunito Sans?</h2>
 
 Modernidade e Confiança: A simplicidade da fonte transmite um caráter confiável e amigável.
 
