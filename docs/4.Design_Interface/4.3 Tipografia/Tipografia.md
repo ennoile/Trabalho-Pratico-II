@@ -31,7 +31,8 @@ Body Text: Regular 16px (texto fluído e natural).
 
 Com essa hierarquia tipográfica, garantimos uma interface organizada, clara e de fácil interação para todos os usuários.
 
+<h2>Exemplo</h2>
 
-
+![images](https://github.com/user-attachments/assets/72887575-c8f5-4380-9f2f-122597eb2443)
 
 
