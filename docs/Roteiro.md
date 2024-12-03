@@ -26,7 +26,7 @@
 [4.4 Icones e Ilustraçõe)s](https://github.com/ennoile/Trabalho-Pratico-II/tree/main/docs/4.Design_Interface/4.4%20icones%20e%20Ilustra%C3%A7%C3%B5es)
 
 
-[4.5 NOme e Logotipo](https://github.com/ennoile/Trabalho-Pratico-II/blob/main/docs/4.Design_Interface/4.5%20Nome%20e%20Logotipo/Imagens/nome.md)
+[4.5 Nome e Logotipo](https://github.com/ennoile/Trabalho-Pratico-II/blob/main/docs/4.Design_Interface/4.5%20Nome%20e%20Logotipo/Imagens/nome.md)
 
 
 [4.6 Wireframe](https://github.com/ennoile/Trabalho-Pratico-II/blob/main/docs/4.Design_Interface/4.7%20Wireframe/Imagens.md)
