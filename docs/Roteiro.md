@@ -31,7 +31,7 @@
 [4.5 NOme e Logotipo](https://github.com/ennoile/Trabalho-Pratico-II/blob/main/docs/4.Design_Interface/4.5%20Nome%20e%20Logotipo/Imagens/nome.md)
 
 ## Wireframe
-[4.6 Wireframe]()
+[4.6 Wireframe](https://github.com/ennoile/Trabalho-Pratico-II/blob/main/docs/4.Design_Interface/4.7%20Wireframe/Imagens.md)
 
 ## Desing Final
 [4.7.2  Microinterações e animações.md](https://github.com/ennoile/Trabalho-Pratico-II/blob/main/docs/4.Design_Interface/4.6%20Desing_Final/4.6.2%20Microintera%C3%A7%C3%B5es%20e%20anima%C3%A7%C3%B5es.md)
