@@ -1,7 +1,10 @@
 # Paleta de Cores do Aplicativo
 
+<img src="https://i.postimg.cc/9fFGG5yk/Captura-de-tela-2024-12-02-222457.png" alt="Texto alternativo">
+
 A escolha das cores deste aplicativo foi planejada para criar uma experiência visual harmoniosa, acessível e intuitiva. A paleta combina tons suaves com cores vibrantes para destacar elementos importantes, melhorar a usabilidade e transmitir emoções específicas que fortalecem a identidade do aplicativo.
-https://i.postimg.cc/9fFGG5yk/Captura-de-tela-2024-12-02-222457.png
+
+
 ## Paleta de Cores
 
 ### Cores de Fundo
